@@ -8146,10 +8146,14 @@
     },
     "default-button": {
       "active": "This data source is currently set as the default.",
+      "cancel": "Cancel",
+      "confirm": "Confirm",
       "error": "Failed to update default data source",
       "label": "Default",
       "make": "Make default",
+      "make-confirm": "Are you sure you want to set this data source as the default?",
       "remove": "Remove default",
+      "remove-confirm": "Are you sure you want to remove the default status from this data source?",
       "tooltip": "The default data source is preselected in new panels."
     },
     "edit-data-source-actions": {
